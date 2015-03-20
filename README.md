@@ -24,10 +24,10 @@ The codes will verify if the data availability in the following order:
 Connected dots plots have been used with no scaling. They can therefore be interpreted as is.
 
 ### Plot 6
-A logarithmic scale as been used for the Y-axis in order to show the amplitude of variations rather than absolute variations.
+A logarithmic scale has been used for the Y-axis in order to show the amplitude of variations rather than absolute variations.
 
 ## Technical details
 Built on
-    R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+        R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
 Platform
-    x86_64-apple-darwin13.4.0 (64-bit)
+        x86_64-apple-darwin13.4.0 (64-bit)
