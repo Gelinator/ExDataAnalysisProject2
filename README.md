@@ -27,7 +27,10 @@ Connected dots plots have been used with no scaling. They can therefore be inter
 A logarithmic scale has been used for the Y-axis in order to show the amplitude of variations rather than absolute variations.
 
 ## Technical details
+
 Built on
+
         R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
 Platform
+
         x86_64-apple-darwin13.4.0 (64-bit)
