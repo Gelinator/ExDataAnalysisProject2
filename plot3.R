@@ -30,7 +30,7 @@ plot3 <- function(wd=getwd()){
                 #plotting it!
                 print(qplot(Year, Emissions, data=EmissionsByYearType, color=Type, 
                       geom = c("line","point"), ylab="Emissions (tons)", 
-                      xlab = "Year", main = "Total emissions per type, by year"))
+                      xlab = "Year", main = "Total emissions per type, by year in Baltimore City"))
                 #finishing off
                 dev.off()
         }

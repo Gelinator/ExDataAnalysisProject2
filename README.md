@@ -26,6 +26,16 @@ Connected dots plots have been used with no scaling. They can therefore be inter
 ### Plot 6
 A logarithmic scale has been used for the Y-axis in order to show the amplitude of variations rather than absolute variations.
 
+## Plot Specific Hypothesis
+
+* Plot 4, Plot 5 and Plot 6:
+        
+        All SCC codes relevant to coal contain at least one definition containing "coal" in any of the following columns (Short.Name, EI.Sector, SCC.Level.Three, SCC.Level.Four).
+
+* Plot 5 and Plot 6:
+        
+        The definitions containing the "vehicle", "car", "truck", "buses", "moto", "mowers" represent all the Motorized Vehicles in SCC classifications.
+
 ## Technical details
 
 Built on

@@ -50,7 +50,7 @@ plot5 <- function(wd=getwd()){
                 
                 #plotting it!
                 plot(EmissionsByYear, type = "b", ylab = "Emissions (tons)", xlab= "Year", 
-                     main = "Total Emissions from Motorized Vehicles per Year",xaxt = "n", col = "blue")
+                     main = "Total Emissions from Motorized Vehicles per Year in Baltimore City",xaxt = "n", col = "blue")
                 
                 #marking the observation years as X labels
                 axis(1,at= c(1999,2002,2005,2008),labels = c(1999,2002,2005,2008))
